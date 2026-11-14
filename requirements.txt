@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.9.2
+pydantic-settings==2.5.2
+langgraph==0.2.34
+langchain-core==0.3.10
+qdrant-client==1.11.3
+sqlalchemy==2.0.35
+psycopg2-binary==2.9.9
+redis==5.1.1

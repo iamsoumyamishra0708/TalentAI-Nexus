@@ -1,0 +1,6 @@
+﻿venv/
+__pycache__/
+.env
+*.pyc
+talent_ai.db
+qdrant_storage/
